@@ -1,0 +1,8 @@
+,valor
+modelo_seleccionado,Random Forest (Optuna)
+threshold_optimo_OOF,0.5944218882955472
+AP_CV_mean,0.45924221132357906
+AP_CV_std,0.019754031335145732
+ROC_AUC_CV_mean,0.79361118668515
+F1_val_default,0.48497854077253216
+F1_val_optimo,0.5116279069767442
