@@ -7,3 +7,5 @@ nbformat
 pathlib
 imbalanced-learn
 optuna
+xgboost
+lightgbm

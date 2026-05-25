@@ -1,0 +1,16 @@
+,valor
+modelo_final,LightGBM (Optuna)
+threshold_negocio,0.41000000000000003
+costo_FN,120
+costo_FP,10
+test_ROC_AUC,0.8157270832350582
+test_AP,0.494707103092901
+test_F1,0.446873932353946
+test_TP,654
+test_FP,1345
+test_FN,274
+test_TN,5965
+test_costo_total,46330.0
+ahorro_vs_threshold_05,540.0
+pct_clientes_llamados,24.26559844622481
+pct_suscriptores_capturados,70.47413793103449
